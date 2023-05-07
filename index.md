@@ -4,17 +4,19 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Google Scholar](./another-page.html).
+<!-- [Google Scholar](./another-page.html). -->
 
-There should be whitespace between paragraphs.
+<!-- There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
 # About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Ming Wang is currently pursuing a Ph.D. degree in computer science at NC State University, where he studies the applications of channel coding in different areas. 
 
-## Header 2
+Ming Wang enjoys playing piano and transcribing music from video games into piano sheet music in his spare time. ([YouTube Channel](https://www.youtube.com/@LaiGenDiao), [Bilibili Channel](https://space.bilibili.com/1228973910), [Musescore](https://musescore.com/user/32685485))
+
+<!-- ## Header 2
 
 > This is a blockquote following a header.
 >
@@ -35,15 +37,15 @@ var fun = function lang(l) {
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
-```
+``` -->
 
-#### Education
+## Education
 
 *   2023-Now: North Carolina State University, Ph.D. student in Computer science. 
 *   2020-2023: Chongqing University, M.Sc.Eng. in Computer science.
 *   2016-2020: Chongqing University of Posts and Telecommunications (CQUPT), B.Eng. in Computer science and technology.
 
-##### Header 5
+<!-- ##### Header 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
@@ -120,4 +122,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
