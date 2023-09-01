@@ -99,11 +99,11 @@ end
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
+``` -->
+![Elysium](./properties/elysium.webp)
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-
-### Definition lists can be used with HTML syntax.
+<!-- ### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
@@ -122,4 +122,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-``` -->
+``` --> -->
