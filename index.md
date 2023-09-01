@@ -12,9 +12,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # About Me
 
-Ming Wang is currently pursuing a Ph.D. degree in computer science at NC State University, where he studies the applications of channel coding in different areas. [Google Scholar](https://scholar.google.com/citations?user=5zlgcn8AAAAJ)
+Ming Wang is currently pursuing a Ph.D. degree in computer science at NC State University, where he studies the applications of coding theory in quantum communications and quantum computations.
 
-Ming Wang enjoys playing piano and transcribing music from video games into piano sheet music in his spare time. ([YouTube Channel](https://www.youtube.com/@LaiGenDiao), [Bilibili Channel](https://space.bilibili.com/1228973910), [Musescore](https://musescore.com/user/32685485))
+He enjoys playing piano and transcribing music from video games into piano sheet music in his spare time. ([YouTube Channel](https://www.youtube.com/@LaiGenDiao), [Bilibili Channel](https://space.bilibili.com/1228973910), [Musescore](https://musescore.com/user/32685485))
 
 <!-- ## Header 2
 
@@ -44,6 +44,9 @@ end
 *   2023-Now: North Carolina State University, Ph.D. student in Computer science. 
 *   2020-2023: Chongqing University, M.Sc.Eng. in Computer science.
 *   2016-2020: Chongqing University of Posts and Telecommunications (CQUPT), B.Eng. in Computer science and technology.
+
+## Publications
+[Google Scholar](https://scholar.google.com/citations?user=5zlgcn8AAAAJ)
 
 <!-- ##### Header 5
 
