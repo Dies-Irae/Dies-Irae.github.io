@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # About Me
 
-Ming Wang is currently pursuing a Ph.D. degree in computer science at NC State University, where he studies the applications of coding theory in quantum communications and quantum computations.
+Ming Wang is currently pursuing a Ph.D. degree in computer science at NC State University, where he studies the applications of coding theory in quantum computing.
 
 He enjoys playing piano and transcribing music from video games into piano sheet music in his spare time. ([YouTube Channel](https://www.youtube.com/@LaiGenDiao), [Bilibili Channel](https://space.bilibili.com/1228973910), [Musescore](https://musescore.com/user/32685485))
 
