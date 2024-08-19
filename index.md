@@ -41,8 +41,8 @@ end
 
 ## Education
 
-*   2023-Now: North Carolina State University, Ph.D. student in Computer science. 
-*   2020-2023: Chongqing University, M.Sc.Eng. in Computer science.
+*   2023-Now: North Carolina State University, Ph.D. student in Computer science. Advisor: Prof. Frank Mueller
+*   2020-2023: Chongqing University, M.Sc.Eng. in Computer science. Advisor: Prof. Yong Li
 *   2016-2020: Chongqing University of Posts and Telecommunications (CQUPT), B.Eng. in Computer science and technology.
 
 ## Publications
