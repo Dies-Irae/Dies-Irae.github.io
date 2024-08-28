@@ -41,14 +41,20 @@ end
 
 ## Education
 
-*   2023-Now: North Carolina State University, Ph.D. student in Computer science. Advisor: Prof. Frank Mueller
-*   2020-2023: Chongqing University, M.Sc.Eng. in Computer science. Advisor: Prof. Yong Li
+*   2023-Now: North Carolina State University, Ph.D. student in Computer science. Advisor: [Prof. Frank Mueller](https://arcb.csc.ncsu.edu/~mueller/)
+*   2020-2023: Chongqing University, M.Sc.Eng. in Computer science. Advisor: [Prof. Yong Li. (CHS](http://www.cs.cqu.edu.cn/info/1352/4191.htm)/ [ENG)](http://www.cs.cqu.edu.cn/info/1495/5739.htm)
 *   2016-2020: Chongqing University of Posts and Telecommunications (CQUPT), B.Eng. in Computer science and technology.
 
 ## Publications
 [Google Scholar](https://scholar.google.com/citations?user=5zlgcn8AAAAJ)
 
+Neural BP-based decoders for high-density parity-check codes:
+
+1. Wang, M., Li, Y., Liu, R., Wu, H., Hu, Y., & Lau, F. C. (2022). Decoding quadratic residue codes using deep neural networks. Electronics, 11(17), 2717.
+2. Wang, M., Li, Y., Liu, J., Guo, T., Wu, H., & Lau, F. C. (2023). Neural layered min-sum decoders for cyclic codes. Physical Communication, 61, 102194.
+
 ## Sheet Music
+Sheet music transcribed or arranged by me. Some of them are visualized.
 1. [Yasunori Mitsuda - Where We Used to Be (在りし日のふたり)](./properties/scores/Where%20we%20used%20to%20be.pdf)
 2. [Shinji Orito - Tori no Uta (鳥の詩) TBA]()
 3. [Quiet Air TBA]()
