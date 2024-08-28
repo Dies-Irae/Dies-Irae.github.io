@@ -49,6 +49,11 @@ end
 [Google Scholar](https://scholar.google.com/citations?user=5zlgcn8AAAAJ)
 
 ## Sheet Music
+1. [Yasunori Mitsuda - Where We Used to Be (在りし日のふたり)](./properties/scores/Where%20we%20used%20to%20be.pdf)
+2. [Shinji Orito - Tori no Uta (鳥の詩) TBA]()
+3. [Quiet Air TBA]()
+4. [Shinji Orito - Kawa (川) TBA]()
+5. [... TBA]
 
 <!-- ##### Header 5
 
