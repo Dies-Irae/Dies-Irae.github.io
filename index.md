@@ -52,14 +52,19 @@ Neural BP-based decoders for high-density parity-check codes:
 
 1. Wang, M., Li, Y., Liu, R., Wu, H., Hu, Y., & Lau, F. C. (2022). Decoding quadratic residue codes using deep neural networks. Electronics, 11(17), 2717.
 2. Wang, M., Li, Y., Liu, J., Guo, T., Wu, H., & Lau, F. C. (2023). Neural layered min-sum decoders for cyclic codes. Physical Communication, 61, 102194.
+3. Han, X., Liu, R., Li, Y., Yi, C., He, J., & Wang, M. (2024). Accelerating Neural BP-Based Decoder Using Coded Distributed Computing. IEEE Transactions on Vehicular Technology.
+
+Bivariate bicycle codes:
+
+1. Wang, M., & Mueller, F. (2024). Coprime Bivariate Bicycle Codes and their Properties. arXiv preprint arXiv:2408.10001.
 
 ## Sheet Music
 Sheet music transcribed or arranged by me. Some of them are visualized.
-1. [Yasunori Mitsuda - Where We Used to Be (在りし日のふたり)](./properties/scores/Where%20we%20used%20to%20be.pdf)
-2. [Shinji Orito - Tori no Uta (鳥の詩) TBA]()
-3. [Quiet Air TBA]()
-4. [Shinji Orito - Kawa (川) TBA]()
-5. [... TBA]
+* [Yasunori Mitsuda - Where We Used to Be (在りし日のふたり)](./properties/scores/Where%20we%20used%20to%20be.pdf)
+*  [Shinji Orito - Tori no Uta (鳥の詩) TBA]()
+*  [Quiet Air TBA]()
+*  [Shinji Orito - Kawa (川) TBA]()
+*  [... TBA]
 
 <!-- ##### Header 5
 
