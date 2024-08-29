@@ -56,15 +56,18 @@ Neural BP-based decoders for high-density parity-check codes:
 
 Bivariate bicycle codes:
 
-1. Wang, M., & Mueller, F. (2024). Coprime Bivariate Bicycle Codes and their Properties. arXiv preprint arXiv:2408.10001.
+1. Wang, M., & Mueller, F. (2024). Coprime Bivariate Bicycle Codes and their Properties. arXiv:2408.10001.
 
 ## Sheet Music
 Sheet music transcribed or arranged by me. Some of them are visualized.
 * [Yasunori Mitsuda - Where We Used to Be (在りし日のふたり)](./properties/scores/Where%20we%20used%20to%20be.pdf)
-*  [Shinji Orito - Tori no Uta (鳥の詩) TBA]()
-*  [Quiet Air TBA]()
-*  [Shinji Orito - Kawa (川) TBA]()
-*  [... TBA]
+*  [Shinji Orito - Tori no Uta (鳥の詩)](./properties/scores/Tori%20no%20Uta%20(Refined).pdf)
+*  [Takeshi Abo - Quiet Air](./properties/scores/Quiet%20Air.pdf)
+*  [Shinji Orito - Kawa (川)](./properties/scores/Kawa.pdf)
+*  [Go Ichinose - Eterna City (ハクタイシティ)](./properties/scores/Eterna_City.pdf)
+*  [Ace - Desolation (哀惜)](./properties/scores/Desolation.pdf)
+*  [Yasunori Mitsuda - Our Hope (二人の望み)](./properties/scores/Our%20Hope.pdf)
+
 
 <!-- ##### Header 5
 
