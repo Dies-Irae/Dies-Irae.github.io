@@ -42,7 +42,7 @@ end
 ## Education
 
 *   2023-Now: North Carolina State University, Ph.D. student in Computer science. Advisor: [Prof. Frank Mueller](https://arcb.csc.ncsu.edu/~mueller/)
-*   2020-2023: Chongqing University, M.Sc.Eng. in Computer science. Advisor: [Prof. Yong Li. (CHS](http://www.cs.cqu.edu.cn/info/1352/4191.htm)/ [ENG)](http://www.cs.cqu.edu.cn/info/1495/5739.htm)
+*   2020-2023: Chongqing University, M.Sc.Eng. in Computer science. Advisor: [Prof. Yong Li. (CHS](https://faculty.cqu.edu.cn/YongLi/zh_CN/index.htm)/ [ENG)](http://www.cs.cqu.edu.cn/info/1495/5739.htm)
 *   2016-2020: Chongqing University of Posts and Telecommunications (CQUPT), B.Eng. in Computer science and technology.
 
 ## Publications
@@ -59,7 +59,7 @@ Bivariate bicycle codes:
 1. Wang, M., & Mueller, F. (2024). Coprime Bivariate Bicycle Codes and their Properties. arXiv:2408.10001.
 
 ## Sheet Music
-Sheet music transcribed or arranged by me. Some of them are visualized.
+Selected sheet music transcribed or arranged by me. Some of them come with visualizzations which can be found on [Bilibili](https://space.bilibili.com/1228973910).
 * [Yasunori Mitsuda - Where We Used to Be (在りし日のふたり)](./properties/scores/Where%20we%20used%20to%20be.pdf)
 *  [Shinji Orito - Tori no Uta (鳥の詩)](./properties/scores/Tori%20no%20Uta%20(Refined).pdf)
 *  [Takeshi Abo - Quiet Air](./properties/scores/Quiet%20Air.pdf)
