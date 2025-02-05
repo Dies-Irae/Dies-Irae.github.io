@@ -67,6 +67,7 @@ Selected sheet music transcribed or arranged by me. Some of them come with visua
 *  [Go Ichinose - Eterna City (ハクタイシティ)](./properties/scores/Eterna_City.pdf)
 *  [Ace - Desolation (哀惜)](./properties/scores/Desolation.pdf)
 *  [Yasunori Mitsuda - Our Hope (二人の望み)](./properties/scores/Our%20Hope.pdf)
+*  [Yasunori Mitsuda - Where the Egg of Dreams Hatches (夢の卵の孵るところ)](./properties/scores/Where_the_Egg_of_Dreams_Hatches.pdf)
 
 
 <!-- ##### Header 5
