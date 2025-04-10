@@ -57,6 +57,7 @@ Neural BP-based decoders for high-density parity-check codes:
 Bivariate bicycle codes:
 
 1. Wang, M., & Mueller, F. (2024). Coprime Bivariate Bicycle Codes and their Properties. arXiv:2408.10001.
+2. Stack, J., Wang, M. & Mueller, F. (2025). Assessing Teleportation of Logical Qubits in a Distributed Quantum Architecture under Error Correction. arXiv:2504.05611.
 
 ## Sheet Music
 Selected sheet music transcribed or arranged by me. Some of them come with visualizzations which can be found on [Bilibili](https://space.bilibili.com/1228973910).
