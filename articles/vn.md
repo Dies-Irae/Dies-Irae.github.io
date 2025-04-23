@@ -2,36 +2,44 @@
 layout: default
 title: 视觉小说（长期更新）
 ---
-## Introduction
-- 写这个文档是为了记录一下自己最近打过的视觉小说的感受
+## 引言
+- 写这个文档是为了记录一下自己最近打过的视觉小说的感受。
+- 列表里的游戏是广义上的视觉小说，包括Galgame、文字ADV等各种文字为主的游戏。
 - 纯主观评分。个人感想只会写个人觉得该游戏做得特别好/特别差的地方。
+- 尽管是纯主观评价，这里还是讲讲我在评分时心里的基本原则。
+    - 我在评分时会尽量着重于游戏最“长板”的地方，因为我觉得大家玩游戏是为了体验在其他作品中所体验不到的东西。
+    - 但是如果短板太短，以至于严重影响游玩体验我也会指出并扣分。
+    - 此外，也有些作品我会说没有特别的缺点，这并不代表它就是满分作品。因为把简单的故事讲好和把复杂的故事讲好的难度是完全不同的。
 
-## Visual Novels Played
+## 正文
 ### 白色相簿 2
-- **Developer/Publisher**: 
-- **Release Date**: 
-- **Genre**: 
-- **Platform**: 
-- **Synopsis**: 
-- **Personal Thoughts**: TBD
+- **个人评价**：剧情结构工整，人物心理活动描写十分细致。同类型游戏中最为经典之作。
+- **优点**：
+- **缺点**：
 - **Rating**: 10/10
 
 ### 命运石之门
-- **Developer/Publisher**: 
-- **Release Date**: 
-- **Genre**: 
-- **Platform**: 
-- **Synopsis**: 
-- **Personal Thoughts**: TBD
+- **个人评价**：
+- **优点**：
+- **缺点**：
 - **Rating**: 10/10
 
-### 你和她和她的恋爱
-- **Developer/Publisher**: 
-- **Release Date**: 
-- **Genre**: 
-- **Platform**: 
-- **Synopsis**: 
-- **Personal Thoughts**: TBD
+### 逆转裁判 1-3
+- **个人评价**：
+- **优点**：
+- **缺点**：
+- **Rating**: 10/10
+
+### 十三机兵防卫圈
+- **个人评价**：
+- **优点**：
+- **缺点**：
+- **Rating**: 9/10
+
+### 你和她和她的恋爱。
+- **个人评价**：
+- **优点**：
+- **缺点**：
 - **Rating**: 8/10
 
 ### 千恋万花
@@ -64,11 +72,6 @@ title: 视觉小说（长期更新）
 - **Rating**: 7/10
 
 
-## Overall Reflections
-- Favorite visual novel(s) and why
-- Trends or patterns in preferences
-- Lessons learned or memorable experiences
 
-## Future Plans
-- Visual novels to play next：装甲恶鬼村正，MUV-LUV Alternate
-- Goals for exploring new genres or developers
+## 其他
+- 正在玩/未来会玩的游戏：装甲恶鬼村正，MUV-LUV Alternate
