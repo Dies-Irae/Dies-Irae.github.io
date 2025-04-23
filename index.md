@@ -126,7 +126,8 @@ Selected sheet music transcribed or arranged by me. Some of them come with visua
 
 ### Large image
 ``` -->
-![Elysium](./properties/elysium.webp)
+[![Elysium](./properties/elysium.webp)](./articles/index.md)
+
 
 
 <!-- ### Definition lists can be used with HTML syntax.
