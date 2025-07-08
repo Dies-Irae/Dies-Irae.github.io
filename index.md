@@ -54,10 +54,11 @@ Neural BP-based decoders for high-density parity-check codes:
 2. Wang, M., Li, Y., Liu, J., Guo, T., Wu, H., & Lau, F. C. (2023). Neural layered min-sum decoders for cyclic codes. Physical Communication, 61, 102194.
 3. Han, X., Liu, R., Li, Y., Yi, C., He, J., & Wang, M. (2024). Accelerating Neural BP-Based Decoder Using Coded Distributed Computing. IEEE Transactions on Vehicular Technology.
 
-Bivariate bicycle codes:
+Quantum Error Correction:
 
 1. Wang, M., & Mueller, F. (2024). Coprime Bivariate Bicycle Codes and their Properties. arXiv:2408.10001.
 2. Stack, J., Wang, M. & Mueller, F. (2025). Assessing Teleportation of Logical Qubits in a Distributed Quantum Architecture under Error Correction. arXiv:2504.05611.
+3. Wang, M., Li, A., & Mueller, F. (2025). Fully Parallelized BP Decoding for Quantum LDPC Codes Can Outperform BP-OSD. arXiv preprint arXiv:2507.00254.
 
 ## Sheet Music
 Selected sheet music transcribed or arranged by me. Some of them come with visualizzations which can be found on [Bilibili](https://space.bilibili.com/1228973910).
