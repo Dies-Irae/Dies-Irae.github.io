@@ -62,6 +62,7 @@ Quantum Error Correction:
 
 ## Sheet Music
 Selected sheet music transcribed or arranged by me. Some of them come with visualizzations which can be found on [Bilibili](https://space.bilibili.com/1228973910).
+* [Kazusa Touma - Todokanai Koi (届かない恋)](./properties/scores/Todokanai%20Koi%20(Piano%20Version).pdf)
 * [Yasunori Mitsuda - Where We Used to Be (在りし日のふたり)](./properties/scores/Where%20we%20used%20to%20be.pdf)
 *  [Shinji Orito - Tori no Uta (鳥の詩)](./properties/scores/Tori%20no%20Uta%20(Refined).pdf)
 *  [Takeshi Abo - Quiet Air](./properties/scores/Quiet%20Air.pdf)
