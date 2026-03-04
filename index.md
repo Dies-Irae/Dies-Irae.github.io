@@ -61,7 +61,7 @@ Quantum Error Correction:
 3. Wang, M., Li, A., & Mueller, F. (2025). Fully Parallelized BP Decoding for Quantum LDPC Codes Can Outperform BP-OSD. (HPCA2026 accepted) arXiv:2507.00254.
 
 ## Sheet Music
-Selected sheet music transcribed or arranged by me. Some of them come with visualizzations which can be found on [Bilibili](https://space.bilibili.com/1228973910).
+Selected sheet music transcribed or arranged by me. Some of them come with visualizations which can be found on [Bilibili](https://space.bilibili.com/1228973910).
 * [Kazusa Touma - Todokanai Koi (届かない恋)](./properties/scores/Todokanai%20Koi%20(Piano%20Version).pdf)
 * [Yasunori Mitsuda - Where We Used to Be (在りし日のふたり)](./properties/scores/Where%20we%20used%20to%20be.pdf)
 *  [Shinji Orito - Tori no Uta (鳥の詩)](./properties/scores/Tori%20no%20Uta%20(Refined).pdf)
