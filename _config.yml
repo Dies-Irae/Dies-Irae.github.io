@@ -1,6 +1,15 @@
 title: Ming Wang
-logo: 
 description: Ph.D. Student at NC State Univ. mwang42@ncsu.edu
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+remote_theme: poole/lanyon
+sidebar_home_link: true
+paginate: 5
+
+# Customize appearance
+author:
+  name: Ming Wang
+  url: https://github.com/Dies-Irae
+
+# Color customization for warm, classical look
+# These variables can be overridden in custom CSS

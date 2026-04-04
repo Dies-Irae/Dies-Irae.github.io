@@ -1,0 +1,120 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Classical warm tone color scheme (like an old book)
+$warm-cream: #f5f1e8;
+$warm-gold: #d4a574;
+$warm-brown: #8b7355;
+$warm-dark-brown: #5c4a3d;
+$text-color: #3e3e3e;
+$serif-font: 'Georgia', 'Garamond', 'Cambria', serif;
+
+// Apply warm, classical styling
+body {
+  background-color: $warm-cream;
+  color: $text_color;
+  font-family: $serif-font;
+  line-height: 1.7;
+}
+
+// Sidebar styling
+.sidebar {
+  background-color: #f9f6f0;
+  border-right: 3px solid $warm-brown;
+}
+
+.sidebar-nav-item {
+  a {
+    color: $warm-dark-brown;
+    
+    &:hover {
+      color: $warm-gold;
+    }
+  }
+  
+  &.active a {
+    background-color: $warm-gold;
+    color: white;
+  }
+}
+
+// Content area
+.content {
+  background-color: white;
+  box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.05);
+  padding: 2rem;
+}
+
+// Headers with serif fonts
+h1, h2, h3, h4, h5, h6 {
+  font-family: $serif-font;
+  color: $warm-dark-brown;
+  font-weight: normal;
+  letter-spacing: 0.05em;
+  border-bottom: 1px solid $warm-gold;
+  padding-bottom: 0.3em;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-top: 1.5em;
+}
+
+h2 {
+  font-size: 1.8em;
+  margin-top: 1.3em;
+}
+
+// Links styling
+a {
+  color: $warm-gold;
+  text-decoration: underline;
+  
+  &:hover {
+    color: $warm-brown;
+  }
+}
+
+// Code blocks - still readable on warm background
+code {
+  background-color: #faf7f2;
+  color: $warm-dark-brown;
+  font-family: 'Monaco', 'Courier New', monospace;
+}
+
+pre {
+  background-color: #faf7f2;
+  border-left: 3px solid $warm-gold;
+  border-radius: 3px;
+}
+
+// Blockquotes
+blockquote {
+  border-left: 4px solid $warm-gold;
+  color: $warm-brown;
+  font-style: italic;
+  padding-left: 1.5em;
+}
+
+// Lists
+ul, ol {
+  font-family: $serif-font;
+  
+  li {
+    margin-bottom: 0.5em;
+  }
+}
+
+// Print-friendly styling
+@media (max-width: 768px) {
+  body {
+    font-size: 1.1em;
+  }
+  
+  .sidebar {
+    border-right: none;
+    border-bottom: 3px solid $warm-brown;
+  }
+}
