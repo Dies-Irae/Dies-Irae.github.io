@@ -1,0 +1,20 @@
+<head>
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    {% if page.title %}{{ page.title }} &ndash; {% endif %}{{ site.title }}
+  </title>
+
+  {% seo title=false %}
+
+  <!-- Lanyon CSS via CDN (remote_theme doesn't copy public/ directory) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/poole/lanyon@master/public/css/poole.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/poole/lanyon@master/public/css/syntax.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/poole/lanyon@master/public/css/lanyon.css">
+
+  <!-- Custom overrides -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+</head>
