@@ -21,18 +21,24 @@ body {
 .sidebar {
   background-color: #f9f6f0;
   border-right: 3px solid $warm-brown;
+  // Override Lanyon's default white text (designed for dark sidebar)
+  color: $warm-dark-brown;
 }
 
+.sidebar a {
+  color: $warm-dark-brown;
+}
+
+// sidebar-nav-item is the class ON the <a> element in Lanyon, not a parent
 .sidebar-nav-item {
-  a {
-    color: $warm-dark-brown;
-    
-    &:hover {
-      color: $warm-gold;
-    }
+  color: $warm-dark-brown;
+
+  &:hover {
+    color: $warm-gold;
+    text-decoration: none;
   }
-  
-  &.active a {
+
+  &.active {
     background-color: $warm-gold;
     color: white;
   }
