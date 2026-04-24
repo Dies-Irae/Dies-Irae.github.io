@@ -50,15 +50,18 @@ end
 
 Neural BP-based decoders for high-density parity-check codes:
 
-1. Wang, M., Li, Y., Liu, R., Wu, H., Hu, Y., & Lau, F. C. (2022). Decoding quadratic residue codes using deep neural networks. Electronics, 11(17), 2717.
-2. Wang, M., Li, Y., Liu, J., Guo, T., Wu, H., & Lau, F. C. (2023). Neural layered min-sum decoders for cyclic codes. Physical Communication, 61, 102194.
-3. Han, X., Liu, R., Li, Y., Yi, C., He, J., & Wang, M. (2024). Accelerating Neural BP-Based Decoder Using Coded Distributed Computing. IEEE Transactions on Vehicular Technology.
+1. **Ming Wang**, Yong Li, Rui Liu, Huihui Wu, Youqiang Hu, & Francis CM Lau. (2022). Decoding quadratic residue codes using deep neural networks. Electronics, 11(17), 2717.
+2. **Ming Wang**, Yong Li, Jianqing Liu, Taolin Guo, Huihui Wu, & Francis CM Lau (2023). Neural layered min-sum decoders for cyclic codes. Physical Communication, 61, 102194.
+3. Xuesong Han, Rui Liu, Yong Li, Chen Yi, Jiguang He, & **Ming Wang** (2024). Accelerating Neural BP-Based Decoder Using Coded Distributed Computing. IEEE Transactions on Vehicular Technology.
 
 Quantum Error Correction:
 
-1. Wang, M., & Mueller, F. (2024). Coprime Bivariate Bicycle Codes and their Layouts on Cold Atoms. Quantum 10, 2009.
-2. Stack, J., Wang, M. & Mueller, F. (2025). Assessing Teleportation of Logical Qubits in a Distributed Quantum Architecture under Error Correction. arXiv:2504.05611.
-3. Wang, M., Li, A., & Mueller, F. (2025). Fully Parallelized BP Decoding for Quantum LDPC Codes Can Outperform BP-OSD. (HPCA2026 accepted) arXiv:2507.00254.
+1. **Ming Wang**, & Frank Mueller. (2024). Rate adjustable bivariate bicycle codes for quantum error correction. 2024 IEEE International Conference on Quantum Computing and Engineering (QCE). 
+2. **Ming Wang**, & Frank Mueller. (2026). Coprime Bivariate Bicycle Codes and their Layouts on Cold Atoms. Quantum 10, 2009.
+3. John Stack, **Ming Wang**, & Frank Mueller. (2025). Assessing Teleportation of Logical Qubits in a Distributed Quantum Architecture under Error Correction. arXiv:2504.05611.
+4. **Ming Wang**, Ang Li, & Frank Mueller. (2026). Fully Parallelized BP Decoding for Quantum LDPC Codes Can Outperform BP-OSD. 2026 IEEE International Symposium on High Performance Computer Architecture (HPCA).
+5. Xiang Fang, **Ming Wang**, Yue Wu, Sharanya Prabhu, Dean Tullsen, Narasinga Rao Miniskar, Frank Mueller, Travis Humble & Yufei Ding. (2026). LightStim: A Framework for QEC Protocol Evaluation and Prototyping with Automated DEM Construction. arXiv:2604.21472.
+
 
 ## Sheet Music
 Selected sheet music transcribed or arranged by me. Some of them come with visualizations which can be found on [Bilibili](https://space.bilibili.com/1228973910).
