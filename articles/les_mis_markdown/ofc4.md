@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - J’avais rêvé d’une autre vie
+---
+layout: page
+title: "J’avais rêvé d’une autre vie"
+---
 
 [Les Beaux cheveux que voilà - That Beautiful Hair](ofc3.md) ~ [Translations](ofc.md) ~ [Dites-moi ce qui se passe - Tell Me What Is Happening](ofc5.md)
 

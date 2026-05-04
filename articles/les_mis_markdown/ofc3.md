@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Les Beaux cheveux que voilà
+---
+layout: page
+title: "Les Beaux cheveux que voilà"
+---
 
 [L’Air de la misère - Air of Misery](ofc2.md) ~ [Translations](ofc.md) ~ [J’avais rêvé d’une autre vie - I Had Dreamed of Another Life](ofc4.md)
 

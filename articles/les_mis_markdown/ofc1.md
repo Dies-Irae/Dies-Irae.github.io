@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - La Journée est finie
+---
+layout: page
+title: "La Journée est finie"
+---
 
 [L’air de la misère - Air of Misery](ofc2.md) ~ [Translations](ofc.md)
 

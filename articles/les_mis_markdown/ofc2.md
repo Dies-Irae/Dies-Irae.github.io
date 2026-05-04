@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - L’Air de la misère
+---
+layout: page
+title: "L’Air de la misère"
+---
 
 [La Journée est finie - The Day Is Done](ofc1.md) ~ [Translations](ofc.md) ~ [Les Beaux cheveux que voilà - That Beautiful Hair](ofc3.md)
 

@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Le Mariage: 'Soyez heureux'
+---
+layout: page
+title: "Le Mariage: 'Soyez heureux'"
+---
 
 [Marius et M. Gillenormand - Marius and M. Gillenormand](ofc28.md) ~ [Translations](ofc.md) ~ [L’Aveu de Jean Valjean - The Confession of Jean Valjean](ofc30.md)
 

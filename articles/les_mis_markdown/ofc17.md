@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Marius: Dans la vie
+---
+layout: page
+title: "Marius: Dans la vie"
+---
 
 [Cosette: Dans la vie - Cosette: In Life](ofc16.md) ~ [Translations](ofc.md) ~ [Voilà, le soir qui tombe - Behold, the Night Falls](ofc18.md)
 

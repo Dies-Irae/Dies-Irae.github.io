@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Demain (Final 2e Acte)
+---
+layout: page
+title: "Demain (Final 2e Acte)"
+---
 
 [La Nuit d’angoisse - The Night of Anguish](ofc22.md) ~ [Translations](ofc.md) ~ [Ce n’est rien - It’s Nothing](ofc24.md)
 

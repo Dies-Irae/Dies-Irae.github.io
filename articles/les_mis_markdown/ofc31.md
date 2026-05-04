@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Marchandage et révélation
+---
+layout: page
+title: "Marchandage et révélation"
+---
 
 [L’Aveu de Jean Valjean - The Confession of Jean Valjean](ofc30.md) ~ [Translations](ofc.md) ~ [Epilogue: La lumière - Epilogue: The Light](ofc32.md)
 

@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - La Valse de la Fourberie
+---
+layout: page
+title: "La Valse de la Fourberie"
+---
 
 [Valjean Chez les Thénardier - Valjean at the Thénardiers’](ofc10.md) ~ [Translations](ofc.md) ~ [Donnez, Donnez - Give, Give](ofc12.md)
 

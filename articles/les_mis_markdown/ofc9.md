@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - La Devise du cabaretier
+---
+layout: page
+title: "La Devise du cabaretier"
+---
 
 [Mam’zelle Crapaud - Miss Toad](ofc8.md) ~ [Translations](ofc.md) ~ [Valjean Chez les Thénardier - Valjean at the Thénardiers’](ofc10.md)
 

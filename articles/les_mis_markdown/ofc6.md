@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Fantine et M. Madeleine
+---
+layout: page
+title: "Fantine et M. Madeleine"
+---
 
 [Dites-moi ce qui se passe - Tell Me What Is Happening](ofc5.md) ~ [Translations](ofc.md) ~ [Mon Prince est en chemin - My Prince Is on the Way](ofc7.md)
 

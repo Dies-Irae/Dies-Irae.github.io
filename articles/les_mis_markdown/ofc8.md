@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Mam’zelle Crapaud
+---
+layout: page
+title: "Mam’zelle Crapaud"
+---
 
 [Mon Prince est en chemin - My Prince Is on the Way](ofc7.md) ~ [Translations](ofc.md) ~ [La Devise du cabaretier - The Innkeeper’s Motto](ofc9.md)
 

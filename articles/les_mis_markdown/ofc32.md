@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Epilogue: La Lumière
+---
+layout: page
+title: "Epilogue: La Lumière"
+---
 
 [Marchandage et révélation - Bargaining and Revelation](ofc31.md) ~ [Translations](ofc.md)
 

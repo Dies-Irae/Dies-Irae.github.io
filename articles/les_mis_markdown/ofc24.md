@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Ce n'est rien
+---
+layout: page
+title: "Ce n'est rien"
+---
 
 [Demain (Final 2e Acte) - Tomorrow (End 2nd Act)](ofc23.md) ~ [Translations](ofc.md) ~ [L’aube du 6 juin - The Dawn of 6 June](ofc25.md)
 

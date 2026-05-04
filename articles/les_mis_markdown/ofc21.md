@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - La Faute à Voltaire
+---
+layout: page
+title: "La Faute à Voltaire"
+---
 
 [L’Un vers l’autre - One After the Other](ofc20.md) ~ [Translations](ofc.md) ~ [La Nuit d’angoisse - The Night of Anguish](ofc22.md)
 

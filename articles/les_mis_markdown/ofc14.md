@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Les Amis de l'ABC
+---
+layout: page
+title: "Les Amis de l'ABC"
+---
 
 [Rouge et noir - Red and Black](ofc13.md) ~ [Translations](ofc.md) ~ [À La Volonté du peuple - To the Will of the People](ofc15.md)
 

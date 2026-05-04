@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - La Mort de Gavroche
+---
+layout: page
+title: "La Mort de Gavroche"
+---
 
 [Noir et blanc - Black and White](ofc26.md) ~ [Translations](ofc.md) ~ [Marius et M. Gillenormand - Marius and M. Gillenormand](ofc28.md)
 

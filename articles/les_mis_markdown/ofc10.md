@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Valjean Chez les Thénardier
+---
+layout: page
+title: "Valjean Chez les Thénardier"
+---
 
 [La Devise du Cabaretier - The Innkeeper’s Motto](ofc9.md) ~ [Translations](ofc.md) ~ [La Valse de la fourberie - The Waltz of Deceit](ofc11.md)
 

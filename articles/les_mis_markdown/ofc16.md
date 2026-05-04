@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Cosette: Dans la vie
+---
+layout: page
+title: "Cosette: Dans la vie"
+---
 
 [À La Volonté du peuple - To the Will of the People](ofc15.md) ~ [Translations](ofc.md) ~ [Marius: Dans la vie - Marius: In Life](ofc17.md)
 

@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "《Clannd》:糟糕的写作如何将现实主义文学变成肥皂剧
-"
+title: "悲惨世界法语概念版（1980）中法歌词对照"
 ---
 
-原文转自：[placedauphine.net](https://www.placedauphine.net/translations/ofc.html)  
-专辑播放列表：[YouTube.com](https://www.youtube.com/playlist?list=PL2nCjtGxqpIY5OeC46Sh_K85tTkvrgU8e)
+原文转自：[placedauphine.net](https://www.placedauphine.net/translations/ofc.html)
 
 ## Tracks
 

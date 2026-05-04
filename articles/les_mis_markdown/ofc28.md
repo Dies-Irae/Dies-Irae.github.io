@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Marius et M. Gillenormand
+---
+layout: page
+title: "Marius et M. Gillenormand"
+---
 
 [La Mort de Gavroche - The Death of Gavroche](ofc27.md) ~ [Translations](ofc.md) ~ [Le Mariage: ‘Soyez heureux’](ofc29.md)
 

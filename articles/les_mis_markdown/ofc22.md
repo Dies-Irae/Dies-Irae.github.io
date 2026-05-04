@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - La Nuit d'angoisse
+---
+layout: page
+title: "La Nuit d'angoisse"
+---
 
 [La Faute à Voltaire - The Fault of Voltaire](ofc21.md) ~ [Translations](ofc.md) ~ [Demain (Final 2e Acte) - Tomorrow (End 2nd Act)](ofc23.md)
 

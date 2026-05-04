@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Mon Prince est en chemin
+---
+layout: page
+title: "Mon Prince est en chemin"
+---
 
 [Fantine et M. Madeleine - Fantine and M. Madeleine](ofc6.md) ~ [Translations](ofc.md) ~ [Mam’zelle Crapaud - Miss Toad](ofc8.md)
 

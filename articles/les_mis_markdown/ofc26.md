@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Noir ou blanc
+---
+layout: page
+title: "Noir ou blanc"
+---
 
 [L’aube du 6 juin - The Dawn of 6 June](ofc25.md) ~ [Translations](ofc.md) ~ [La Mort de Gavroche - The Death of Gavroche](ofc27.md)
 

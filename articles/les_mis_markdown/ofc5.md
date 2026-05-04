@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Dites-moi ce qui se passe
+---
+layout: page
+title: "Dites-moi ce qui se passe"
+---
 
 [J’avais rêvé d’une autre vie - I Had Dreamed of Another Life](ofc4.md) ~ [Translations](ofc.md) ~ [Fantine et M. Madeleine - Fantine and M. Madeleine](ofc6.md)
 

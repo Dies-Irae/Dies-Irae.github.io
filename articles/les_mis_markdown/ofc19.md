@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Le Coeur au bonheur (Cosette et Marius)
+---
+layout: page
+title: "Le Coeur au bonheur (Cosette et Marius)"
+---
 
 [Voilà le soir qui tombe - Behold, the Night Falls](ofc18.md) ~ [Translations](ofc.md) ~ [L’Un vers l’autre - One After the Other](ofc20.md)
 

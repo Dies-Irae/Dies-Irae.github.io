@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - À La Volonté du peuple
+---
+layout: page
+title: "À La Volonté du peuple"
+---
 
 [Les Amis de l’ABC - The Friends of the ABC](ofc14.md) ~ [Translations](ofc.md) ~ [Cosette: Dans la vie - Cosette: In Life](ofc16.md)
 

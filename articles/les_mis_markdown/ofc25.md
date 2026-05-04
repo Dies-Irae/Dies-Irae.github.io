@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - L'Aube du 6 juin
+---
+layout: page
+title: "L'Aube du 6 juin"
+---
 
 [Ce n’est rien - It Is Nothing](ofc24.md) ~ [Translations](ofc.md) ~ [Noir ou blanc - Black or White](ofc26.md)
 

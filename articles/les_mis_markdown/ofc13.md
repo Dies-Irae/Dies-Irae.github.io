@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Rouge et Noir
+---
+layout: page
+title: "Rouge et Noir"
+---
 
 [Donnez, Donnez - Give, Give](ofc12.md) ~ [Translations](ofc.md) ~ [Les Amis de l'ABC - The Friends of the ABC](ofc14.md)
 

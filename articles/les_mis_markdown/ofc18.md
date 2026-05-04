@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - Voilà le soir qui tombe
+---
+layout: page
+title: "Voilà le soir qui tombe"
+---
 
 [Marius: Dans la vie - Marius: In Life](ofc17.md) ~ [Translations](ofc.md) ~ [Le Coeur au bonheur (Cosette et Marius) - The Heart of Happiness (Cosette and Marius)](ofc19.md)
 

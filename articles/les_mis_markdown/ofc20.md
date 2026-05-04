@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - L'Un vers l'autre
+---
+layout: page
+title: "L'Un vers l'autre"
+---
 
 [Le Coeur au bonheur (Cosette et Marius) - The Heart of Happiness (Cosette and Marius)](ofc19.md) ~ [Translations](ofc.md) ~ [La Faute à Voltaire - The Fault of Voltaire](ofc21.md)
 

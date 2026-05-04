@@ -1,4 +1,7 @@
-# Les Misérables Original French Concept Album - L'Aveu de Jean Valjean
+---
+layout: page
+title: "L'Aveu de Jean Valjean"
+---
 
 [Le Mariage: ‘Soyez heureux’](ofc29.md) ~ [Translations](ofc.md) ~ [Marchandage et révélation - Bargaining and Revelation](ofc31.md)
 
