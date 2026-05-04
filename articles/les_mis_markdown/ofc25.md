@@ -31,7 +31,7 @@ Toi Feuilly, toi Combeferre
 不，若李；你，博须埃  
 Non Joly, toi Bossuet
 
-*马吕斯（Marius）*
+*安灼拉（Enjolras）*
 
 我还差一个单身汉  
 Il m’en reste encore un qui soit célibataire
@@ -46,7 +46,7 @@ C’est à moi que revient la dernière cartouchière
 不，马吕斯，留在这里；对我们来说，你已经结婚了  
 Non, Marius, reste là, pour nous tu es marié
 
-*吉诺曼先生（M. Gillenormand）*
+*冉阿让（Jean Valjean）*
 
 留在这里吧，年轻人，既然他们这样命令你  
 Restez ici, jeune homme, puisqu’on vous le commande
@@ -62,7 +62,7 @@ Hé, d’où sort-il, celui-là
 嘿，先生，您是谁，又在这里做什么？  
 Hé monsieur, qui êtes-vous et que faites-vous donc là ?
 
-*吉诺曼先生（M. Gillenormand）*
+*冉阿让（Jean Valjean）*
 
 昨夜我梦见有人在这里等我  
 J’ai rêvé cette nuit qu’on m’attendait ici
@@ -96,7 +96,7 @@ Je vous en remercie
 因为您救了我最好的朋友一命  
 Vous qui sauvez la vie de mon meilleur ami
 
-*吉诺曼先生（M. Gillenormand）*
+*冉阿让（Jean Valjean）*
 
 不要谢我  
 Ne me remerciez pas
@@ -109,13 +109,10 @@ Faites-moi une faveur
 请说，先生，什么忙？  
 Dites, Monsieur, laquelle ?
 
-*吉诺曼先生（M. Gillenormand）*
+*冉阿让（Jean Valjean）*
 
-让我亲手把这个密探的脑袋  
-Brûler de cet espion
-
-轰掉  
-Moi-même la cervelle
+让我亲手把这个密探的脑袋轰掉  
+Brûler de cet espion moi-même la cervelle
 
 *沙威（Javert）*
 

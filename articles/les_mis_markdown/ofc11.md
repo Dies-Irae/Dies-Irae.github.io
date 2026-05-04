@@ -25,17 +25,14 @@ Que sa mère nous confia
 愿上帝保佑那可怜人的灵魂  
 Et que Dieu ait son âme, la pauvrette
 
-谁能告诉我们，谁能证明您的意图确实  
-Qui nous dit, qui nous prouve que vos intentions sont bien
-
-正直诚实  
-honnêtes
+谁能告诉我们，谁能证明您的意图确实\[正直诚实\]  
+Qui nous dit, qui nous prouve que vos intentions sont bien \[honnêtes\]
 
 我相信您，可一个人动了真情时，钱算不了什么  
 Je vous crois, mais l'argent compte peu quand on aime
 
-哪怕是现钱  
-comptant
+\[哪怕是现钱\]  
+\[comptant\]
 
 她一直被宠爱着，就像是我们的孩子一样  
 elle était chouchoutée tout comme si elle était notre enfant

@@ -66,7 +66,7 @@ qui ne peut me donner plus
 他爱珂赛特，我接受  
 Il aime Cosette, je l’accepte
 
-*马吕斯（Marius）*
+*冉阿让（Jean Valjean）*
 
 该怎么办……  
 Comment faire...
@@ -85,12 +85,12 @@ ce général qu’on encense
 不过是闹事的借口  
 est un prétexte à chienlit
 
-*德纳第（Thénardier）*
+*冉阿让（Jean Valjean）*
 
 该怎么办……  
 Comment faire...
 
-*安灼拉（Enjolras）*
+*德纳第夫妇（Les Thénardier）*
 
 明天在送葬队伍里  
 Demain au cortège
@@ -110,7 +110,7 @@ qu’importe le blason
 只要钱在你们口袋里，对我们来说都好  
 si c’est dans vos poches, pour nous c’est tout bon
 
-*众人（Tous）*
+*ABC之友与伽弗洛什（Les Amis de l’ABC et Gavroche）*
 
 为了人民的意志  
 À la volonté du peuple
@@ -127,17 +127,17 @@ C’est pour demain, ami
 明天，明天，明天  
 demain, demain, demain
 
-*合唱（Ensemble）*
+*冉阿让（Jean Valjean）*
 
 该怎么办……  
 Comment faire...
 
-*合唱（Ensemble）*
+*众人（Tous）*
 
 （合唱与对唱）  
 chant et contrechant
 
-*众人（Tous）*
+*冉阿让（Jean Valjean）*
 
 该怎么办  
 Comment faire

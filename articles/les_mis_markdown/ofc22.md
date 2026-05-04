@@ -11,7 +11,7 @@ title: "La Nuit d'angoisse"
 
 **La Nuit d’angoisse**
 
-*安灼拉（Enjolras）*
+*弗以伊（Feuilly）*
 
 为什么我们必须开枪  
 Pourquoi doit-on tirer
@@ -31,7 +31,7 @@ Et en quoi espérer
 当这场牌局早已被人做了手脚  
 Quand les cartes du jeu sont truquées
 
-*马吕斯（Marius）*
+*Combeferre（公白飞）*
 
 这也许就是最后一次  
 C’est peut-être le dernier
@@ -77,7 +77,7 @@ Persévérons toujours
 让我们一直梦到明天，相信巴黎属于我们  
 Rêvons jusqu’à demain que Paris est à nous
 
-*马吕斯（Marius）*
+*弗以伊（Feuilly）*
 
 记住那些快乐的日子  
 Souviens-toi des jours heureux
@@ -91,7 +91,7 @@ Lorsqu’en ajoutant ton âge à mon âge
 我们两个人还不到四十岁  
 Nous ne comptions pas quarante ans à deux
 
-*珂赛特（Cosette）*
+*合唱（Ensemble）*
 
 记住我们曾经的告白  
 Souviens-toi de nos aveux

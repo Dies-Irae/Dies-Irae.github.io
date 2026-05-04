@@ -152,7 +152,7 @@ Même sa gamine piège les pigeons
 那就是爱潘妮，穿裙子的伽弗洛什  
 C’est l’Éponine, Gavroche en jupons
 
-她的心软得一文不值  
+她有颗不值一文却容易动摇的心  
 Qu’a l’cœur qui flanche pour pas un rond
 
 饿也好，冷也好，至少我不无聊  

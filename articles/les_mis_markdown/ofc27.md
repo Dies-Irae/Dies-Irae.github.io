@@ -25,7 +25,7 @@ j’espère qu’là-haut, on s’ra pas dans l’même cachot
 因为在这世上，我们本来就不是为同一场战斗而战  
 sur terre déjà, on était pas du même combat
 
-*安灼拉（Enjolras）*
+*古费拉克（Courfeyrac）*
 
 真有你的，伽弗洛什，你总是这么会逗人发笑  
 Sacré Gavroche, t’as toujours l’mot pour rire
@@ -33,7 +33,7 @@ Sacré Gavroche, t’as toujours l’mot pour rire
 可光靠耍嘴皮子可治不好你  
 c’est pas la parlotte qui te f’ra guérir
 
-*众人（Tous）*
+*马吕斯（Marius）*
 
 啊！这群混蛋，他们竟朝一个孩子开枪  
 Ah! les salauds, ils ont tiré sur un enfant
@@ -55,7 +55,7 @@ Notre drapeau était par terre
 红的蒙羞，蓝的染污  
 rouge de honte et bleu sali
 
-而我气得脸都发白了  
+我因愤怒而变得煞白  
 moi, j’ai bandi blanc de colère
 
 “前进，祖国的儿女们——”  

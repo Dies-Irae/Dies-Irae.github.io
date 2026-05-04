@@ -59,29 +59,17 @@ Dépêchez-vous un peu
 
 *马德兰先生（M. Madeleine）*
 
-我会派人去接您的  
-J’enverrai chercher votre
+我会派人去接您的\[小女儿\]  
+J’enverrai chercher votre \[fillette\]
 
-小女儿  
-fillette
+卸下您\[债务的重担\]  
+déchargée du fardeau de vos \[dettes\]
 
-卸下您  
-déchargée du fardeau de vos
+您就能重新\[幸福起来\]  
+vous pourrez être à nouveau \[heureuse\]
 
-债务的重担  
-dettes
-
-您就能重新  
-vous pourrez être à nouveau
-
-幸福起来  
-heureuse
-
-您在上帝面前  
-vous qui n’avez pour Dieu pas
-
-从未停止  
-cessé
+您在上帝面前\[从未停止]  
+vous qui n’avez pour Dieu pas \[cessé\]
 
 做一个有德行的人  
 d’être vertueuse

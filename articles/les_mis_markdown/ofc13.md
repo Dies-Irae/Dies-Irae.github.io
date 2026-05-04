@@ -16,11 +16,8 @@ title: "Rouge et Noir"
 我究竟是否真的见过她，这位温柔的陌生人  
 L’ai-je au moins jamais vue, cette douce inconnue
 
-还是说她只是一场虚妄的梦，像历史的  
-Ou n’est-elle qu’un songe vain comme les mensonges de
-
-谎言一样  
-l’histoire
+还是说她只是一场虚妄的梦，像\[历史\]的谎言一样  
+Ou n’est-elle qu’un songe vain comme les mensonges de \[l’histoire\]
 
 我难道不是梦见了她，如同梦见那种理想  
 Ne l’ai-je pas rêvée comme cet idéal

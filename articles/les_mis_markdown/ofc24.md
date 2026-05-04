@@ -53,7 +53,7 @@ Même l’amour ne peut rien pour moi
 请把我抱在怀里  
 Prenez-moi dans vos bras
 
-*爱潘妮（Éponine）*
+*合唱（Ensemble）*
 
 这没什么，不，这没什么  
 Ce n’est rien, non ce n’est rien
