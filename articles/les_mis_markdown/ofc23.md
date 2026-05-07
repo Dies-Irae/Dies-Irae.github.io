@@ -90,7 +90,7 @@ est un prétexte à chienlit
 该怎么办……  
 Comment faire...
 
-*德纳第（Thénardier）*
+*德纳第夫妇（Les Thénardier）*
 
 明天在送葬队伍里  
 Demain au cortège
