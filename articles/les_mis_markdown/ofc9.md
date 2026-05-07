@@ -67,6 +67,28 @@ qu’une destinée contraire a planté dans ce canton
 可我本该拥有整个星球，才足以满足我的野心  
 quand il me faudrait la planète pour assouvir mes ambitions
 
+*众人（Tous）*
+
+德纳男爵，贵族身份虽小  
+Baron de Thénard, petit en noblesse
+
+卑鄙之处伟大，渺小之中高贵  
+grand par ses bassesses et noble en petitesse
+
+理想的暴君，婚姻里的领主，仆役中的王子  
+despote idéal, seigneur conjugal, prince des valets
+
+钱柜抽屉的霸王  
+tyran du tiroir-caisse
+
+只因命运不济，把他种在这乡下地方  
+qu’une destinée contraire a planté dans ce canton
+
+可他本该拥有整个星球，才足以满足他的野心  
+quand il lui faudrait la planète pour assouvir ses ambitions
+
+*德纳第（Thénardier）*
+
 好客栈老板必须会定价  
 Bon aubergiste doit tarifer
 
@@ -152,33 +174,19 @@ qu’une destinée traîtresse a placé sur mon chemin
 而他总是许诺，财富明天就会到来  
 et qui promet toujours que la richesse est pour demain
 
-*德纳第（Thénardier）*
+*德纳第夫妇（Thénardier / Mme Thénardier）*
 
-德纳第老爷  
-Maître Thénardier
+德纳第老爷 / 偷懒第老爷  
+Maître Thénardier / Maître Feignardier
 
-醉酒博士  
-Docteur-ès-ivresse
+醉酒博士 / 勉强算个丈夫  
+Docteur-ès-ivresse / et mari de justesse
 
-德纳男爵  
-Baron de Thénard
+德纳男爵 / 废物男爵  
+Baron de Thénard / Baron de Tocard
 
-卑鄙之处伟大  
-grand par ses bassesses
-
-*德纳第太太（Mme Thénardier）*
-
-偷懒第老爷  
-Maître Feignardier
-
-勉强算个丈夫  
-et mari de justesse
-
-废物男爵  
-Baron de Tocard
-
-可没钱时倒大方  
-mais large sans espèces
+卑鄙之处伟大 / 可没钱时倒大方  
+grand par ses bassesses / mais large sans espèces
 
 *众人（Tous）*
 

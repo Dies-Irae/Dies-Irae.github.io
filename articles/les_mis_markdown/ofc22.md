@@ -31,7 +31,7 @@ Et en quoi espérer
 当这场牌局早已被人做了手脚  
 Quand les cartes du jeu sont truquées
 
-*Combeferre（公白飞）*
+*公白飞（Combeferre）*
 
 这也许就是最后一次  
 C’est peut-être le dernier
