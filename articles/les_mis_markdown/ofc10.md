@@ -52,32 +52,18 @@ Elle n'aura pas revu sa petite
 珂赛特也没能见到她的妈妈  
 Et Cosette n'a pas vu sa maman
 
-*冉阿让（Jean Valjean）*
+*冉阿让 / 德纳第夫妇（Jean Valjean / Les Thénardier）*
 
-我会去做她没能做到的事  
-Je ferai ce qu'elle n'a pas pu faire
+我会去做她没能做到的事 / 把您的外套给我吧 / 请坐，我的好先生   
+Je ferai ce qu'elle n'a pas pu faire / Donnez-moi votre manteau / Asseyez-vous, mon bon monsieur
 
-我会替她努力做一个好父亲  
-J'essaierai pour elle d'être bon père
+我会替她努力做一个好父亲 / 坐到那边，靠近壁炉 / 那边暖和，您会舒服得多  
+J'essaierai pour elle d'être bon père / là près de la cheminée / Là au chaud vous serez bien mieux 
 
-你们的恩惠会得到报偿  
-Vos bienfaits vont trouver récompense
+你们的恩惠会得到报偿   
+Vos bienfaits vont trouver récompense 
 
 现在就请把你们的花销算给我吧  
-Faites-moi sur l'heure le compte de vos dépenses
-
-*德纳第夫妇（Les Thénardier）*
-
-把您的外套给我吧  
-Donnez-moi votre manteau
-
-请坐，我的好先生  
-Asseyez-vous, mon bon monsieur
-
-坐到那边，靠近壁炉  
-là près de la cheminée
-
-那边暖和，您会舒服得多  
-Là au chaud vous serez bien mieux
+Faites-moi sur l'heure le compte de vos dépenses 
 
 [La Devise du Cabaretier - The Innkeeper’s Motto](ofc9.md) ~ [Translations](ofc.md) ~ [La Valse de la fourberie - The Waltz of Deceit](ofc11.md)
