@@ -3,7 +3,7 @@ layout: page
 title: "La Mort de Gavroche"
 ---
 
-[Noir et blanc - Black and White](ofc26.md) ~ [Translations](ofc.md) ~ [Marius et M. Gillenormand - Marius and M. Gillenormand](ofc28.md)
+[Noir ou blanc - Black or White](ofc26.md) ~ [Translations](ofc.md) ~ [Marius et M. Gillenormand - Marius and M. Gillenormand](ofc28.md)
 
 ---
 
@@ -91,4 +91,4 @@ le nez dans le ruisseau
 都是卢梭的错……  
 c’est la faute à...
 
-[Noir et blanc - Black and White](ofc26.md) ~ [Translations](ofc.md) ~ [Marius et M. Gillenormand - Marius and M. Gillenormand](ofc28.md)
+[Noir ou blanc - Black or White](ofc26.md) ~ [Translations](ofc.md) ~ [Marius et M. Gillenormand - Marius and M. Gillenormand](ofc28.md)

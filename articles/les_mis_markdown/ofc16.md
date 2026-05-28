@@ -3,7 +3,7 @@ layout: page
 title: "Cosette: Dans la vie"
 ---
 
-[À La Volonté du peuple - To the Will of the People](ofc15.md) ~ [Translations](ofc.md) ~ [Marius: Dans la vie - Marius: In Life](ofc17.md)
+[À la volonté du peuple - To the Will of the People](ofc15.md) ~ [Translations](ofc.md) ~ [Marius: Dans la vie - Marius: In Life](ofc17.md)
 
 ---
 
@@ -70,4 +70,4 @@ Le bonheur, c’est un cadeau de Dieu
 在属于他的时刻  
 À son heure
 
-[À La Volonté du peuple - To the Will of the People](ofc15.md) ~ [Translations](ofc.md) ~ [Marius: Dans la vie - Marius: In Life](ofc17.md)
+[À la volonté du peuple - To the Will of the People](ofc15.md) ~ [Translations](ofc.md) ~ [Marius: Dans la vie - Marius: In Life](ofc17.md)

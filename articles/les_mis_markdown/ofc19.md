@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Le Coeur au bonheur (Cosette et Marius)"
+title: "Le Cœur au bonheur (Cosette et Marius)"
 ---
 
 [Voilà le soir qui tombe - Behold, the Night Falls](ofc18.md) ~ [Translations](ofc.md) ~ [L’Un vers l’autre - One After the Other](ofc20.md)
@@ -9,7 +9,7 @@ title: "Le Coeur au bonheur (Cosette et Marius)"
 
 ## Lyrics
 
-**Le Coeur au Bonheur (Cosette et Marius)**
+**Le Cœur au bonheur (Cosette et Marius)**
 
 *马吕斯（Marius）*
 

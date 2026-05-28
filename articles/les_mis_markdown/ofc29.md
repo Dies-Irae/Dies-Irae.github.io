@@ -9,7 +9,7 @@ title: "Le Mariage: 'Soyez heureux'"
 
 ## Lyrics
 
-**Le Mariage: ‘Soyez Heureux’**
+**Le Mariage: ‘Soyez heureux’**
 
 *宾客们（Les Invités）*
 

@@ -3,7 +3,7 @@ layout: page
 title: "Marchandage et révélation"
 ---
 
-[L’Aveu de Jean Valjean - The Confession of Jean Valjean](ofc30.md) ~ [Translations](ofc.md) ~ [Epilogue: La lumière - Epilogue: The Light](ofc32.md)
+[L’Aveu de Jean Valjean - The Confession of Jean Valjean](ofc30.md) ~ [Translations](ofc.md) ~ [Épilogue: La lumière - Epilogue: The Light](ofc32.md)
 
 ---
 
@@ -93,4 +93,4 @@ Viens Cosette, c’est la fête
 你的父亲回到巴黎了  
 Ton père est de retour à Paris
 
-[L’Aveu de Jean Valjean - The Confession of Jean Valjean](ofc30.md) ~ [Translations](ofc.md) ~ [Epilogue: La lumière - Epilogue: The Light](ofc32.md)
+[L’Aveu de Jean Valjean - The Confession of Jean Valjean](ofc30.md) ~ [Translations](ofc.md) ~ [Épilogue: La lumière - Epilogue: The Light](ofc32.md)

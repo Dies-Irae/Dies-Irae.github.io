@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "À La Volonté du peuple"
+title: "À la volonté du peuple"
 ---
 
 [Les Amis de l’ABC - The Friends of the ABC](ofc14.md) ~ [Translations](ofc.md) ~ [Cosette: Dans la vie - Cosette: In Life](ofc16.md)
@@ -9,7 +9,7 @@ title: "À La Volonté du peuple"
 
 ## Lyrics
 
-**Ŕ La Volonté du peuple**
+**À la volonté du peuple**
 
 *安灼拉（Enjolras）*
 

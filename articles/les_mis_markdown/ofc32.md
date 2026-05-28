@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Epilogue: La Lumière"
+title: "Épilogue: La Lumière"
 ---
 
 [Marchandage et révélation - Bargaining and Revelation](ofc31.md) ~ [Translations](ofc.md)
@@ -9,7 +9,7 @@ title: "Epilogue: La Lumière"
 
 ## Lyrics
 
-**Epilogue: La LumiĶre**
+**Épilogue: La Lumière**
 
 *冉阿让（Jean Valjean）*
 
@@ -29,7 +29,7 @@ Oui, Cosette, défends-moi de mourir
 j’aimerais t’obéir
 
 光明本就在每个人的心中  
-La lumière est dans le coeur des hommes
+La lumière est dans le cœur des hommes
 
 但若不为他人而燃烧，它便会枯竭消亡  
 mais s’épuise de brûler pour personne

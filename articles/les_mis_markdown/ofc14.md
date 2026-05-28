@@ -3,7 +3,7 @@ layout: page
 title: "Les Amis de l'ABC"
 ---
 
-[Rouge et noir - Red and Black](ofc13.md) ~ [Translations](ofc.md) ~ [À La Volonté du peuple - To the Will of the People](ofc15.md)
+[Rouge et noir - Red and Black](ofc13.md) ~ [Translations](ofc.md) ~ [À la volonté du peuple - To the Will of the People](ofc15.md)
 
 ---
 
@@ -147,4 +147,4 @@ Préparons-nous à tout puisque nous n’avons rien
 孤注一掷  
 Et le tout pour le tout
 
-[Rouge et noir - Red and Black](ofc13.md) ~ [Translations](ofc.md) ~ [À La Volonté du peuple - To the Will of the People](ofc15.md)
+[Rouge et noir - Red and Black](ofc13.md) ~ [Translations](ofc.md) ~ [À la volonté du peuple - To the Will of the People](ofc15.md)

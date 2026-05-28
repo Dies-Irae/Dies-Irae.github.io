@@ -3,7 +3,7 @@ layout: page
 title: "L'Un vers l'autre"
 ---
 
-[Le Coeur au bonheur (Cosette et Marius) - The Heart of Happiness (Cosette and Marius)](ofc19.md) ~ [Translations](ofc.md) ~ [La Faute à Voltaire - The Fault of Voltaire](ofc21.md)
+[Le Cœur au bonheur (Cosette et Marius) - The Heart of Happiness (Cosette and Marius)](ofc19.md) ~ [Translations](ofc.md) ~ [La Faute à Voltaire - The Fault of Voltaire](ofc21.md)
 
 ---
 
@@ -100,4 +100,4 @@ On n’peut plus les aimer l’un sans l’autre
 否则便违背了这个故事的道理  
 Sans trahir la morale de l’histoire
 
-[Le Coeur au bonheur (Cosette et Marius) - The Heart of Happiness (Cosette and Marius)](ofc19.md) ~ [Translations](ofc.md) ~ [La Faute à Voltaire - The Fault of Voltaire](ofc21.md)
+[Le Cœur au bonheur (Cosette et Marius) - The Heart of Happiness (Cosette and Marius)](ofc19.md) ~ [Translations](ofc.md) ~ [La Faute à Voltaire - The Fault of Voltaire](ofc21.md)
