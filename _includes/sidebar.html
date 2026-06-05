@@ -1,8 +1,18 @@
 <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
 <div class="sidebar" id="sidebar">
-  <div class="sidebar-item">
-    <p>{{ site.description }}</p>
+  <div class="sidebar-item sidebar-avatar-section">
+    <img src="{{ site.baseurl }}/assets/images/avatar.jpg" alt="{{ site.author.name }}" class="sidebar-avatar" id="sidebar-avatar" style="cursor:pointer" title="Click to switch avatar"
+      data-avatars="{{ site.baseurl }}/assets/images/avatar.jpg,{{ site.baseurl }}/assets/images/avatar2.jpg,{{ site.baseurl }}/assets/images/avatar3.jpg">
+    <p class="sidebar-name">{{ site.author.name }}</p>
+    <p class="sidebar-description">{{ site.description }}</p>
+    <div class="sidebar-social">
+      <a href="https://scholar.google.com/citations?user=5zlgcn8AAAAJ" title="Google Scholar" target="_blank" rel="noopener"><i class="fa-brands fa-google-scholar"></i></a>
+      <a href="https://www.linkedin.com/in/ming-wang-a12b9b290" title="LinkedIn" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="https://github.com/Dies-Irae" title="GitHub" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i></a>
+      <a href="https://www.youtube.com/@LaiGenDiao" title="YouTube" target="_blank" rel="noopener"><i class="fa-brands fa-youtube"></i></a>
+      <a href="https://space.bilibili.com/1228973910" title="Bilibili" target="_blank" rel="noopener"><i class="fa-brands fa-bilibili"></i></a>
+    </div>
   </div>
 
   <nav class="sidebar-nav">
@@ -16,3 +26,16 @@
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
+
+<script>
+  (function () {
+    var img = document.getElementById('sidebar-avatar');
+    if (!img) return;
+    var avatars = img.dataset.avatars.split(',');
+    var index = 0;
+    img.addEventListener('click', function () {
+      index = (index + 1) % avatars.length;
+      img.src = avatars[index];
+    });
+  })();
+</script>
