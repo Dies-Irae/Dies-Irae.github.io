@@ -12,32 +12,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # About Me
 
-Ming Wang is currently pursuing a Ph.D. degree in computer science at NC State University, where he studies the applications of coding theory in quantum computing.
+Ming Wang is a Ph.D. student in Computer Science at North Carolina State University, where he studies coding theory and its applications to quantum computing. His research focuses on qLDPC code design, efficient decoding algorithms, and practical approaches to quantum error correction.
 
-He enjoys playing piano and transcribing music from video games into piano sheet music in his spare time. ([YouTube Channel](https://www.youtube.com/@LaiGenDiao), [Bilibili Channel](https://space.bilibili.com/1228973910), [Musescore](https://musescore.com/user/32685485))
+Outside research, he enjoys playing piano and transcribing music from video games into sheet music in his spare time. ([YouTube Channel](https://www.youtube.com/@LaiGenDiao), [Bilibili Channel](https://space.bilibili.com/1228973910), [Musescore](https://musescore.com/user/32685485))
 
-<!-- ## Header 2
+## What's New?
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-``` -->
+We're delighted to announce the initial release of [LightStim](https://github.com/QuTone/LightStim), a framework for evaluating and prototyping quantum error correction protocols. LightStim automates detector error model construction, making it easier to build simulation workflows for QEC experiments. For details, see our [paper](https://arxiv.org/abs/2604.21472).
 
 ## Education
 
